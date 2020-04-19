@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\e2e\\src",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\recipes\\recipe-detail",
+    "\\src\\app\\recipes\\recipe-list",
+    "\\src\\app\\recipes\\recipe-list\\recipe-item",
+    "\\src\\app\\shopping-list"
+  ],
+  "SelectedNode": "\\src\\app",
+  "PreviewInSolutionExplorer": false
+}
