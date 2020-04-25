@@ -1,14 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\e2e\\src",
     "\\src",
     "\\src\\app",
-    "\\src\\app\\recipes\\recipe-detail",
+    "\\src\\app\\header",
+    "\\src\\app\\recipes",
     "\\src\\app\\recipes\\recipe-list",
     "\\src\\app\\recipes\\recipe-list\\recipe-item",
-    "\\src\\app\\shopping-list"
+    "\\src\\app\\shared",
+    "\\src\\app\\shopping-list",
+    "\\src\\app\\shopping-list\\shopping-edit"
   ],
-  "SelectedNode": "\\src\\app",
+  "SelectedNode": "\\src\\app\\header\\header.component.ts",
   "PreviewInSolutionExplorer": false
 }

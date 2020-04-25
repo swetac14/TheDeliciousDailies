@@ -7,4 +7,13 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'TheDeliciousDailies';
+  compCalled = '';
+
+  navigateToComp(navigationData: { componentCalled: string }) {
+    this.compCalled = navigationData.componentCalled;
+   // alert(navigationData.componentCalled);
+    //console.log(navigationData.componentCalled);
+  }
+
+
 }
